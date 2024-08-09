@@ -1,12 +1,7 @@
 - 👋 Hi, I’m Rambler Lee.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning something about matlab.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-lxy020902/lxy020902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in cybersecurity, AI, and Java development.
+- 🌱 I’m currently learning something about MATLAB.
+- 💞️ I’m looking to collaborate on technical projects and learning groups.
+- 📫 How to reach me: lxy020902@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about combining technology with creativity, always looking for innovative ways to solve problems.
